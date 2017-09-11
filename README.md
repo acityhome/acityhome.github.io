@@ -1,7 +1,7 @@
 ## Welcome to acityhome where shanghai
 欢迎您入住品质民宿，一城一家，上海欢迎您。
-有任何疑问请拨打电话 18660400039 咨询，或得帮助。
-
+有任何疑问请添加微信 ruanjianjiagoushi（软件架构师-拼音） 咨询，或得帮助。
+广告推广人员勿扰。
 Shanghai Brief Introduction
 Throughout the past century, Shanghai has had numerous name tags attached to it; like "Paris of the Orient" and "Pearl of China". Images of Shanghai more than any other Chinese city, are bountiful in the west. A visit here therefore, is naturally tainted to some extent, with a preconception of how the city will be.
 As the largest and most prosperous city in the nation, Shanghai is the economic, financial and cultural center of China, while Beijing is the political heart. And this image of Shanghai as a fast and modern metropolis is certainly the one that most visitors take away. Those old preconceptions of Shanghai as the home of crime vice and prostitutes are wiped away, as the city successfully projects an image of itself as young, vibrant and cool.
