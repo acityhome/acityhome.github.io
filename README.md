@@ -1,12 +1,8 @@
-## Welcome to acityhome where shanghai
-欢迎您入住品质民宿，一城一家，上海欢迎您。
-有任何疑问请添加微信 ruanjianjiagoushi（软件架构师-拼音） 咨询，或得帮助。
-广告推广人员勿扰。
-Shanghai Brief Introduction
-Throughout the past century, Shanghai has had numerous name tags attached to it; like "Paris of the Orient" and "Pearl of China". Images of Shanghai more than any other Chinese city, are bountiful in the west. A visit here therefore, is naturally tainted to some extent, with a preconception of how the city will be.
-As the largest and most prosperous city in the nation, Shanghai is the economic, financial and cultural center of China, while Beijing is the political heart. And this image of Shanghai as a fast and modern metropolis is certainly the one that most visitors take away. Those old preconceptions of Shanghai as the home of crime vice and prostitutes are wiped away, as the city successfully projects an image of itself as young, vibrant and cool.
-Shanghai is a modern and fast paced city, rich in history and culture and with a wealth of areas and sites just waiting to be explored. One of the nicest aspects of Shanghai is that the crowds here are much more manageable than in a city like Beijing. This is largely because there are no great ancient sites which people flock to. Rather, this is a city to be walked, wandered, explored and discovered in your own time and, in your own style.
-What makes Shanghai particularly attractive are the many different styles of architecture and design throughout the city. Shanghai was once divided up into different "Concessions" or districts and the boundaries of these areas still remain today. The famous, Bund was home to the "British Public Park" and this boulevard has a plethora of colonial structures to visit, all reminders of Shanghai's days of decadence. 
-The Japanese and the French Concessions too, are fascinating areas to explore. The French Quarter is a particularly charming district to wander, and there are many former residences to look at and discover something about old Shanghai and the people who lived here. The area known as the "Chinese City" is also worthy of a visit. Take a break from the tourists around the Yuyuan and do some serious antique shopping or just lose yourself amidst the old alleys and streets.
-But perhaps most of all today, Shanghai is a spectacularly modern city. The pace of development here is unbelievable. Currently, seventeen percent of the world's cranes are in the city and developers boast that the city is changing at a rate incomparable to anywhere else in the world ever. The newest area of the city, Pudong, has just celebrated its 10th anniversary and is almost unrecognizable from the way it was when development began here. Two of the most impressive city structures can be found here, the Jinmao Tower and the Oriental TV Tower.
-For any visitor to China, perhaps the most attractive thing about this city is just how fashionable it is. Museums, galleries, restaurants and bars have emerged in the past few years. This cosmopolitan cultural scene which harks back to the heydays of the 1920s and 30s and the new found wealth in the city are helping to reinvent Shanghai as a place with a fabulous and optimistic style and attitude.
+#一点点说明
+
+这是[mukosame.github.io](http://mukosame.github.io)的blog。你可以到gh-pages branch中查看干净的版本。
+* 感谢来自于beiyuu的设计(http://beiyuu.com/)
+* 希望你喜欢
+* 欢迎star
+* 欢迎fork
+* Happy hacking ^_^
